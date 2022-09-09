@@ -1,1 +1,0 @@
-# leitor_qr_code
